@@ -66,7 +66,7 @@
 ## 📫 Onde me encontrar
 
 - 💼 LinkedIn: [camila-ribeiro-pinto](https://www.linkedin.com/in/camila-ribeiro-pinto/)
-- 📧 E-mail: [camilarp.rec@gmail.com](mailto:camilarp.pro@gmail.com)
+- 📧 E-mail: [camilarp.pro@gmail.com](mailto:camilarp.pro@gmail.com)
 - 📍 Recife - PE
 
 ---
