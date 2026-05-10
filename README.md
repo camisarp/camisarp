@@ -54,14 +54,6 @@
 
 ---
 
-## 📫 Onde me encontrar
-
-- 💼 LinkedIn: [camila-ribeiro-pinto](https://www.linkedin.com/in/camila-ribeiro-pinto/)
-- 📧 E-mail: [camilarp.pro@gmail.com](mailto:camilarp.pro@gmail.com)
-- 📍 Recife - PE
-
----
-
 <p align="center">
   Feito com carinho por Camila Ribeiro 💙
 </p>
