@@ -1,26 +1,32 @@
-## Oiii eu sou a Camila Ribeiro!
-<div align="center">
-  <a href="https://github.com/camisarp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camisarp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camisarp&layout=compact&langs_count=7&theme=radical"/>
-</div>
+# Oiii, eu sou a Camila Ribeiro! 👋
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Camis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Camis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Camis-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="center" alt="Camis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Camis-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84551213/173443051-12c9ffc6-77f7-42aa-abf7-5da9f2286c8a.png">
-</div>
-  
-  ##
- 
- <div> 
-  <a href="https://instagram.com/camisarp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Camila Ribeiro#9426" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:camilarp.rec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-ribeiro-pinto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/camisarp/camisarp/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Sou **Analista de Dados** e **Desenvolvedora Back-End**, com experiência em SQL, Python, JavaScript, automação de processos e soluções orientadas a dados.
+
+Atualmente estou aprofundando meus estudos e projetos em **Dados, Backend, Automação e Inteligência Artificial**.
+
+---
+
+## 💻 Tecnologias e ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+
+---
+
+## ✨ Sobre mim
+
+- 📊 Interesse em análise de dados, automações e inteligência artificial  
+- 🧠 Experiência com SQL, backend, documentação técnica e resolução de problemas  
+- 👩‍🏫 Também atuo com ensino de tecnologia para mulheres iniciantes  
+- 🚀 Em constante evolução, construindo projetos práticos e bem documentados  
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/camila-ribeiro-pinto/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:SEUEMAILAQUI)
