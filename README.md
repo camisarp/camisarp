@@ -47,10 +47,10 @@
 
 ## 🌱 Atualmente focada em
 
-- Dados e automação
-- Desenvolvimento Back-End
-- Projetos com IA
-- Construção de soluções úteis e bem documentadas
+- 📊 Análise de dados e automação
+- 🧩 Desenvolvimento Back-End
+- 🤖 Projetos com Inteligência Artificial
+- 📝 Soluções úteis, práticas e bem documentadas
 
 ---
 
