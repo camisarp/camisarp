@@ -61,9 +61,9 @@ Atualmente estou aprofundando meus estudos em **Java, Spring Boot, Inteligência
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/camila-ribeiro-pinto/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:camilarp.pro@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-camilarp.rec-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/camila-ribeiro-pinto/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:camilarp.pro@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/)
 
 ---
 
